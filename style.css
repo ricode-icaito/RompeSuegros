@@ -1,5 +1,5 @@
 body {
-  background-image: url("suegros.jpg");
+  background-image: url("leo.png");
 }
 
 table {
@@ -25,7 +25,7 @@ p {
   }
 }
 
-@media (max-width: 380px) {
+@media (max-width: 320px) {
   table {
     width: 100%;
   }
