@@ -9,6 +9,10 @@ table {
   border-spacing: 0;
 }
 
+h1 {
+  color: aqua;
+}
+
 img {
 	display: block;
 }
