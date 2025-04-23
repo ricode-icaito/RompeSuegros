@@ -1,0 +1,17 @@
+body {
+	background-image: url("suegros.jpg");
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+img {
+	display: block;
+}
+
+p {
+	text-align: center;
+	color: rgb(247, 247, 245);
+}
